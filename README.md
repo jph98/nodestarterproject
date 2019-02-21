@@ -1,2 +1,3 @@
-# nodestarterproject
-Node skeleton starter project for new projects
+# Node Skeleton Project
+
+This is a skeleton Node project that provides a bunch of starter files, a structure for your project etc...
